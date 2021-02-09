@@ -1,0 +1,8 @@
+div.app {
+  text-align: center;
+  font-family: Arial;
+}
+
+div.app * {
+  margin: 32px 0;
+}
